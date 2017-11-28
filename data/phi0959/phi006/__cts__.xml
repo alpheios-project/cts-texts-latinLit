@@ -1,0 +1,7 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:phi0959.phi006" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0959">
+ <ti:title xml:lang="eng">Metamorphoses</ti:title>
+  <ti:edition urn="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" workUrn="urn:cts:latinLit:phi0959.phi006">
+    <ti:label xml:lang="eng">Alpheios Enhanced Metamorphoses</ti:label>
+    <ti:description xml:lang="eng">Alpheios Enhanced Metamorphoses</ti:description>
+  </ti:edition>
+</ti:work>
