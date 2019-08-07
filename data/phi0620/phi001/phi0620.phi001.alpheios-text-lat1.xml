@@ -413,7 +413,7 @@
               <w n="s19_w32" synch="n=s19_w49" ana="19-32">mercato</w>
               <w n="s19_w33" synch="n=s19_w42,n=s19_w43" ana="19-33">perdere</w>
               <w n="s19_w34" synch="n=s19_w48,n=s19_w50" ana="19-34">cultu</w>, </l>
-            <l>
+            <l n="6">
               <w n="s19_w36" synch="n=s19_w52,n=s19_w53,n=s19_w52,n=s19_w53" ana="19-36 19-37"
                 >nec</w>
               <w n="s19_w37" synch="n=s19_w52,s19_w53 s19_w52 s19_w53" ana="19-36 19-37">nec</w>
@@ -423,7 +423,7 @@
               <w n="s19_w41" synch="n=s19_w56" ana="19-41">membra</w>
               <w n="s19_w42" synch="n=s19_w57,n=s19_w58" ana="19-42">nitere</w>
               <w n="s19_w43" synch="n=s19_w62" ana="19-43">bonis</w>? </l>
-            <l n="6">
+            <l n="7">
               <w n="s20_w1" synch="n=s20_w1" ana="20-1">crede</w>
               <w n="s20_w2" synch="n=s20_w2" ana="20-2">mihi</w>, <w n="s20_w4" synch="n=s20_w6"
                 ana="20-4">non</w>
@@ -432,28 +432,28 @@
               <w n="s20_w7" synch="n=s20_w5" ana="20-7">est</w>
               <w n="s20_w8" synch="n=s20_w11,n=s20_w12,n=s20_w13" ana="20-8">medicina</w>
               <w n="s20_w9" synch="n=s20_w8" ana="20-9">figurae</w>: </l>
-            <l n="7">
+            <l n="8">
               <w n="s21_w1" synch="n=s21_w1" ana="21-1">nudus</w>
               <w n="s21_w2" synch="n=s21_w2" ana="21-2">Amor</w>
               <w n="s21_w3" synch="n=s21_w5,n=s21_w7" ana="21-3">formae</w>
               <w n="s21_w4" synch="n=s21_w4" ana="21-4">non</w>
               <w n="s21_w5" synch="n=s21_w3" ana="21-5">amat</w>
               <w n="s21_w6" synch="n=s21_w6" ana="21-6">artificem</w>. </l>
-            <l n="8">
+            <l n="9">
               <w n="s22_w1" synch="n=s22_w1" ana="22-1">aspice</w>
               <w n="s22_w2" synch="n=s22_w2" ana="22-2">quos</w>
               <w n="s22_w3" synch="n=s22_w7" ana="22-3">summittat</w>
               <w n="s22_w4" synch="n=s22_w5,n=s22_w6" ana="22-4">humus</w>
               <w n="s22_w5" synch="n=s22_w3" ana="22-5">formosa</w>
               <w n="s22_w6" synch="n=s22_w4" ana="22-6">colores</w>, </l>
-            <l n="9">
+            <l n="10">
               <w n="s22_w8" synch="n=s22_w9" ana="22-8">ut</w>
               <w n="s22_w9" synch="n=s22_w11" ana="22-9">veniant</w>
               <w n="s22_w10" synch="n=s22_w10" ana="22-10">hederae</w>
               <w n="s22_w11" synch="n=s22_w13,n=s22_w15,n=s22_w16,n=s22_w17" ana="22-11">sponte</w>
               <w n="s22_w12" synch="n=s22_w14" ana="22-12">sua</w>
               <w n="s22_w13" synch="n=s22_w12" ana="22-13">melius</w>, </l>
-            <l n="10">
+            <l n="11">
               <w n="s22_w15" synch="n=s22_w22" ana="22-15">surgat</w>
               <w n="s22_w16" synch="n=s22_w19" ana="22-16">et</w>
               <w n="s22_w17" synch="n=s22_w25" ana="22-17">in</w>
@@ -461,7 +461,7 @@
               <w n="s22_w19" synch="n=s22_w23,n=s22_w24" ana="22-19">formosius</w>
               <w n="s22_w20" synch="n=s22_w20,n=s22_w21" ana="22-20">arbutus</w>
               <w n="s22_w21" synch="n=s22_w27,n=s22_w28,n=s22_w29,n=s22_w30" ana="22-21">antris</w>, </l>
-            <l n="11">
+            <l n="12">
               <w n="s22_w23" synch="n=s22_w32" ana="22-23">et</w>
               <w n="s22_w24" synch="n=s22_w35" ana="22-24">sciat</w>
               <w n="s22_w25" synch="n=s22_w38,n=s22_w39,n=s22_w40,n=s22_w41" ana="22-25"
@@ -469,33 +469,33 @@
               <w n="s22_w26" synch="n=s22_w35" ana="22-26">currere</w>
               <w n="s22_w27" synch="n=s22_w33,n=s22_w34" ana="22-27">lympha</w>
               <w n="s22_w28" synch="n=s22_w36,n=s22_w37" ana="22-28">vias</w>. </l>
-            <l n="12">
+            <l n="13">
               <w n="s23_w1" synch="n=s23_w2,n=s23_w3" ana="23-1">litora</w>
               <w n="s23_w2" synch="n=s23_w6,n=s23_w7,n=s23_w8,n=s23_w9" ana="23-2">nativis</w>
               <w n="s23_w3" synch="n=s23_w4" ana="23-3">praefulgent</w>
               <w n="s23_w4" synch="n=s23_w12,n=s23_w13,n=s23_w14" ana="23-4">picta</w>
               <w n="s23_w5" synch="n=s23_w11" ana="23-5">lapillis</w>, </l>
-            <l n="13">
+            <l n="14">
               <w n="s23_w7" synch="n=s23_w21" ana="23-7">et</w>
               <w n="s23_w8" synch="n=s23_w23" ana="23-8">volucres</w>
               <w n="s23_w9" synch="n=s23_w25,n=s23_w30" ana="23-9">nulla</w>
               <w n="s23_w10" synch="n=s23_w26,n=s23_w27,n=s23_w28" ana="23-10">dulcius</w>
               <w n="s23_w11" synch="n=s23_w29,n=s23_w31" ana="23-11">arte</w>
               <w n="s23_w12" synch="n=s23_w24" ana="23-12">canunt</w>. </l>
-            <l n="14">
+            <l n="15">
               <w n="s24_w1" synch="n=s24_w1" ana="24-1">non</w>
               <w n="s24_w2" synch="n=s24_w2,n=s24_w3,n=s24_w4" ana="24-2">sic</w>
               <w n="s24_w3" synch="n=s24_w8,n=s24_w9,n=s24_w10,n=s24_w11" ana="24-3">Leucippis</w>
               <w n="s24_w4" synch="n=s24_w5,n=s24_w13,n=s24_w16,n=s24_w17" ana="24-4">succendit</w>
               <w n="s24_w5" synch="n=s24_w14,n=s24_w15" ana="24-5">Castora</w>
               <w n="s24_w6" synch="n=s24_w6" ana="24-6">Phoebe</w>, </l>
-            <l n="15">
+            <l n="16">
               <w n="s24_w8" synch="n=s24_w27" ana="24-8">Pollucem</w>
               <w n="s24_w9" synch="n=s24_w32,n=s24_w33,n=s24_w34" ana="24-9">cultu</w>
               <w n="s24_w10" synch="n=s24_w19" ana="24-10">non</w>
               <w n="s24_w11" synch="n=s24_w24" ana="24-11">Hilaira</w>
               <w n="s24_w12" synch="n=s24_w21,n=s24_w22" ana="24-12">soror</w>; </l>
-            <l n="16">
+            <l n="17">
               <w n="s25_w1" synch="n=s25_w1,n=s25_w2" ana="25-1">non</w>, <w n="s25_w3"
                 synch="n=s25_w28,s25_w29" ana="25-3">Idae</w>
               <w n="s25_w4" synch="n=s25_w30" ana="25-4">et</w>
@@ -503,13 +503,13 @@
               <w n="s25_w6" synch="n=s25_w4,n=s25_w5,n=s25_w6,n=s25_w7" ana="25-6">quondam</w>
               <w n="s25_w7" synch="n=s25_w24,n=s25_w25,n=s25_w26,n=s25_w27" ana="25-7">discordia</w>
               <w n="s25_w8" synch="n=s25_w33" ana="25-8">Phoebo</w>, </l>
-            <l n="17">
+            <l n="18">
               <w n="s25_w10" synch="n=s25_w12,n=s25_w13" ana="25-10">Eveni</w>
               <w n="s25_w11" synch="n=s25_w18,n=s25_w19,n=s25_w20" ana="25-11">patriis</w>
               <w n="s25_w12" synch="n=s25_w10,n=s25_w11" ana="25-12">filia</w>
               <w n="s25_w13" synch="n=s25_w15,n=s25_w16,n=s25_w17,n=s25_w21" ana="25-13"
                 >litoribus</w>; </l>
-            <l n="18">
+            <l n="19">
               <w n="s26_w1" synch="n=s26_w1,s26_w1" ana="26-1 26-2">nec</w>
               <w n="s26_w2" synch="n=s26_w1,n=s26_w1" ana="26-1 26-2">nec</w>
               <w n="s26_w3" synch="n=s26_w18" ana="26-3">Phrygium</w>
@@ -518,39 +518,39 @@
               <w n="s26_w6" synch="n=s26_w20,n=s26_w22" ana="26-6">candore</w>
               <w n="s26_w7" synch="n=s26_w19" ana="26-7">maritum</w>
             </l>
-            <l n="19">
+            <l n="20">
               <w n="s26_w8" synch="n=s26_w5,n=s26_w6,n=s26_w7,n=s26_w8" ana="26-8">avecta</w>
               <w n="s26_w9" synch="n=s26_w12,n=s26_w13,n=s26_w14" ana="26-9">externis</w>
               <w n="s26_w10" synch="n=s26_w3" ana="26-10">Hippodamia</w>
               <w n="s26_w11" synch="n=s26_w9,n=s26_w10,n=s26_w11" ana="26-11">rotis</w>: </l>
-            <l n="20">
+            <l n="21">
               <w n="s27_w1" synch="n=s27_w1" ana="27-1">sed</w>
               <w n="s27_w2" synch="n=s27_w4,n=s27_w5" ana="27-2">facies</w>
               <w n="s27_w3" synch="n=s27_w3" ana="27-3">aderat</w>
               <w n="s27_w4" synch="n=s27_w8" ana="27-4">nullis</w>
               <w n="s27_w5" synch="n=s27_w6" ana="27-5">obnoxia</w>
               <w n="s27_w6" synch="n=s27_w7,n=s27_w9" ana="27-6">gemmis</w>, </l>
-            <l n="21">
+            <l n="22">
               <w n="s27_w8" synch="n=s27_w14,n=s27_w15" ana="27-8">qualis</w>
               <w n="s27_w9" synch="n=s27_w20,n=s27_w21" ana="27-9">Apelleis</w>
               <w n="s27_w10" synch="n=s27_w16" ana="27-10">est</w>
               <w n="s27_w11" synch="n=s27_w12,n=s27_w13" ana="27-11">color</w>
               <w n="s27_w12" synch="n=s27_w17" ana="27-12">in</w>
               <w n="s27_w13" synch="n=s27_w18,n=s27_w19" ana="27-13">tabulis</w>. </l>
-            <l n="22">
+            <l n="23">
               <w n="s28_w1" synch="n=s28_w4" ana="28-1">non</w> n=
               <w n="s28_w2" synch="n=s28_w1" ana="28-2">illis</w>
               <w n="s28_w3" synch="n=s28_w2" ana="28-3">studium</w>
               <w n="s28_w4" synch="n=s28_w8,n=s28_w9,n=s28_w10" ana="28-4">vulgo</w>
               <w n="s28_w5" synch="n=s28_w5,n=s28_w6" ana="28-5">conquirere</w>
               <w n="s28_w6" synch="n=s28_w7" ana="28-6">amantis</w>: </l>
-            <l n="23">
+            <l n="24">
               <w n="s28b_w1" synch="n=s28b_w9" ana="28b-1">illis</w>
               <w n="s28b_w2" synch="n=s28b_w5,n=s28b_w6" ana="28b-2">ampla</w>
               <w n="s28b_w3" synch="n=s28b_w4" ana="28b-3">satis</w>
               <w n="s28b_w4" synch="n=s28b_w3" ana="28b-4">forma</w>
               <w n="s28b_w5" synch="n=s28b_w1" ana="28b-5">pudicitia</w>. </l>
-            <l n="24">
+            <l n="25">
               <w n="s29_w1" synch="n=s29_w3" ana="29-1">non</w>
               <w n="s29_w2" synch="n=s29_w1" ana="29-2">ego</w>
               <w n="s29_w3" synch="n=s29_w4" ana="29-3">nunc</w>
@@ -560,7 +560,7 @@
               <w n="s29_w7" synch="n=s29_w8,n=s29_w9" ana="29-7">tibi</w>
               <w n="s29_w8" synch="n=s29_w10,n=s29_w11" ana="29-8">vilior</w>
               <w n="s29_w9" synch="n=s29_w12,n=s29_w13" ana="29-9">istis</w>: </l>
-            <l n="25">
+            <l n="26">
               <w n="s30_w1" synch="n=s30_w4,n=s30_w5" ana="30-1">uni</w>
               <w n="s30_w2" synch="n=s30_w1" ana="30-2">si</w>
               <w n="s30_w3" synch="n=s30_w2" ana="30-3">qua</w>
@@ -569,7 +569,7 @@
               <w n="s30_w7" synch="n=s30_w6,n=s30_w7" ana="30-7">puella</w>
               <w n="s30_w8" synch="n=s30_w9" ana="30-8">sat</w>
               <w n="s30_w9" synch="n=s30_w8" ana="30-9">est</w>; </l>
-            <l n="26">
+            <l n="27">
               <w n="s31_w1" synch="n=s31_w1" ana="31-1">cum</w>
               <w n="s31_w2" synch="n=s31_w4" ana="31-2">tibi</w>
               <w n="s31_w3" synch="n=s31_w5" ana="31-3">praesertim</w>
@@ -578,13 +578,13 @@
               <w n="s31_w6" synch="n=s31_w6,n=s31_w10" ana="31-6">carmina</w>
               <w n="s31_w7" synch="n=s31_w3" ana="31-7">donet</w>
             </l>
-            <l n="27">
+            <l n="28">
               <w n="s31_w8" synch="n=s31_w12,n=s31_w17" ana="31-8 31-9">Aoniamque</w>
               <w n="s31_w9" synch="n=s31_w12,s31_w17" ana="31-8 31-9">Aoniamque</w>
               <w n="s31_w10" synch="n=s31_w14,n=s31_w15" ana="31-10">libens</w>
               <w n="s31_w11" synch="n=s31_w13" ana="31-11">Calliopea</w>
               <w n="s31_w12" synch="n=s31_w16,n=s31_w18" ana="31-12">lyram</w>, </l>
-            <l n="28">
+            <l n="29">
               <w n="s31_w14" synch="n=s31_w21" ana="31-14">unica</w>
               <w n="s31_w15" synch="n=s31_w24,n=s31_w24" ana="31-15 31-16">nec</w>
               <w n="s31_w16" synch="n=s31_w24,s31_w24" ana="31-15 31-16">nec</w>
@@ -592,14 +592,14 @@
               <w n="s31_w18" ana="31-18">iucundis</w>
               <w n="s31_w19" synch="n=s31_w20,n=s31_w22" ana="31-19">gratia</w>
               <w n="s31_w20" synch="n=s31_w26,n=s31_w27,n=s31_w28" ana="31-20">verbis</w>, </l>
-            <l n="29">
+            <l n="30">
               <w n="s31_w22" synch="n=s31_w33" ana="31-22">omnia</w>
               <w n="s31_w23" synch="n=s31_w30,n=s31_w34" ana="31-23">quaeque</w>
               <w n="s31_w24" synch="n=s31_w35" ana="31-24">Venus</w>, <w n="s31_w26"
                 synch="n=s31_w36" ana="31-26">quaeque</w>
               <w n="s31_w27" synch="n=s31_w37" ana="31-27">Minerva</w>
               <w n="s31_w28" synch="n=s31_w38" ana="31-28">probat</w>. </l>
-            <l n="30">
+            <l n="31">
               <w n="s32_w1" synch="n=s32_w1,n=s32_w2" ana="32-1">his</w>
               <w n="s32_w2" synch="n=s32_w4" ana="32-2">tu</w>
               <w n="s32_w3" synch="n=s32_w6" ana="32-3">semper</w>
@@ -607,7 +607,7 @@
               <w n="s32_w5" synch="n=s32_w10,n=s32_w11" ana="32-5">nostrae</w>
               <w n="s32_w6" synch="n=s32_w8,n=s32_w9" ana="32-6">gratissima</w>
               <w n="s32_w7" synch="n=s32_w10,n=s32_w11" ana="32-7">vitae</w>, </l>
-            <l n="31">
+            <l n="32">
               <w n="s32_w9" synch="n=s32_w16" ana="32-9">taedia</w>
               <w n="s32_w10" synch="n=s32_w13,n=s32_w14" ana="32-10">dum</w>
               <w n="s32_w11" synch="n=s32_w17" ana="32-11">miserae</w>
