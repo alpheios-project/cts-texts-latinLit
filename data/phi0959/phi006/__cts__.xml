@@ -1,7 +1,7 @@
 <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:phi0959.phi006" xml:lang="lat" groupUrn="urn:cts:latinLit:phi0959">
  <ti:title xml:lang="eng">Metamorphoses</ti:title>
   <ti:edition urn="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" workUrn="urn:cts:latinLit:phi0959.phi006">
-    <ti:label xml:lang="eng">Metamorphoses</ti:label>
+    <ti:label xml:lang="lat">Metamorphoses</ti:label>
     <ti:description xml:lang="eng">TEI XML Edition Enhanced with Syntax Diagrams for 1.1-1.9 and 1.163-1.773. Ovid. Metamorphoses. Hugo Magnus.
       Gotha (Germany). Friedr. Andr. Perthes. 1892</ti:description>
   </ti:edition>
