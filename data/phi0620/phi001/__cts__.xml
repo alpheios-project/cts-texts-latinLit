@@ -3,6 +3,6 @@
 	<ti:title xml:lang="lat">Elegiae</ti:title>
 	<ti:edition urn="urn:cts:latinLit:phi0620.phi001.alpheios-text-lat1" workUrn="urn:cts:latinLit:phi0620.phi001">
 		<ti:label xml:lang="lat">Elegiae</ti:label>
-                <ti:description xml:lang="eng">TEI with Syntax Diagrams. Propertius, Sextus, creator; Müller, Lucian, 1836-1898, editor</ti:description>
+                <ti:description xml:lang="eng">TEI XML Edition Enhanced with Syntax Diagrams for Poems 1 and 2. Propertius, Sextus, creator; Müller, Lucian, 1836-1898, editor</ti:description>
 	</ti:edition>
 </ti:work>
