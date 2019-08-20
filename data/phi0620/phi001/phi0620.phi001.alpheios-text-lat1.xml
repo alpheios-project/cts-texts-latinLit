@@ -211,7 +211,6 @@
               <w n="s9_w8" synch="s9_w7" ana="9-8">artis</w>, </l>
             <l n="18">
               <w n="s9_w10" synch="s9_w9" ana="9-10 9-11">nec</w>
-              <w n="s9_w11" synch="s9_w9,s9_w9" ana="9-10 9-11">nec</w>
               <w n="s9_w12" synch="s9_w10" ana="9-12">meminit</w>
               <w n="s9_w13" synch="s9_w19" ana="9-13">notas</w>, <w n="s9_w15" synch="s9_w14"
                 ana="9-15">ut</w>
@@ -538,7 +537,7 @@
               <w n="s27_w12" synch="n=s27_w17" ana="27-12">in</w>
               <w n="s27_w13" synch="n=s27_w18,n=s27_w19" ana="27-13">tabulis</w>. </l>
             <l n="23">
-              <w n="s28_w1" synch="n=s28_w4" ana="28-1">non</w> n=
+              <w n="s28_w1" synch="n=s28_w4" ana="28-1">non</w>
               <w n="s28_w2" synch="n=s28_w1" ana="28-2">illis</w>
               <w n="s28_w3" synch="n=s28_w2" ana="28-3">studium</w>
               <w n="s28_w4" synch="n=s28_w8,n=s28_w9,n=s28_w10" ana="28-4">vulgo</w>
