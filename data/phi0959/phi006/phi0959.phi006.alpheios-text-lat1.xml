@@ -178,11 +178,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-
                <w ana="3-18">quem</w> 
                <w ana="3-19">dixere</w> 
                <w ana="3-20">chaos</w>: <w ana="4-1">rudis</w> 
-               <w ana="4-2 4-3 4-4 4-5 4-6">indigestaque</w> 
-               <w ana="4-2 4-3 4-4 4-5 4-6">moles</w>
+               <w ana="4-2 4-3">indigestaque</w> 
+               <w ana="4-4">moles</w>
             </l>
             <l n="8">
-               <w ana="4-2 4-3 4-4 4-5 4-6">nec</w> 
+               <w ana="4-5 4-6">nec</w> 
                <w ana="4-7">quicquam</w> 
                <w ana="4-8">nisi</w> 
                <w ana="4-9">pondus</w> 
